@@ -127,10 +127,10 @@
             // label1
             // 
             label1.AutoSize = true;
-            label1.Font = new Font("Malgun Gothic", 13.8F, FontStyle.Regular, GraphicsUnit.Point);
+            label1.Font = new Font("Segoe UI", 13.8F, FontStyle.Regular, GraphicsUnit.Point);
             label1.Location = new Point(393, 77);
             label1.Name = "label1";
-            label1.Size = new Size(77, 31);
+            label1.Size = new Size(75, 31);
             label1.TabIndex = 3;
             label1.Text = "Home";
             label1.Click += label1_Click;
@@ -138,10 +138,10 @@
             // label2
             // 
             label2.AutoSize = true;
-            label2.Font = new Font("Malgun Gothic", 13.8F, FontStyle.Regular, GraphicsUnit.Point);
+            label2.Font = new Font("Segoe UI", 13.8F, FontStyle.Regular, GraphicsUnit.Point);
             label2.Location = new Point(575, 77);
             label2.Name = "label2";
-            label2.Size = new Size(85, 31);
+            label2.Size = new Size(84, 31);
             label2.TabIndex = 4;
             label2.Text = "Facility";
             // 
@@ -191,10 +191,10 @@
             // NamaBangunan
             // 
             NamaBangunan.AutoSize = true;
-            NamaBangunan.Font = new Font("Malgun Gothic", 13.8F, FontStyle.Bold, GraphicsUnit.Point);
+            NamaBangunan.Font = new Font("Segoe UI", 13.8F, FontStyle.Bold, GraphicsUnit.Point);
             NamaBangunan.Location = new Point(0, 23);
             NamaBangunan.Name = "NamaBangunan";
-            NamaBangunan.Size = new Size(256, 31);
+            NamaBangunan.Size = new Size(252, 31);
             NamaBangunan.TabIndex = 0;
             NamaBangunan.Text = "Gedung Kuliah Umum";
             NamaBangunan.Click += NamaBangunan_Click;
@@ -254,10 +254,10 @@
             // InputNoTelf
             // 
             InputNoTelf.AutoSize = true;
-            InputNoTelf.Font = new Font("Malgun Gothic", 9F, FontStyle.Bold, GraphicsUnit.Point);
+            InputNoTelf.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point);
             InputNoTelf.Location = new Point(51, 360);
             InputNoTelf.Name = "InputNoTelf";
-            InputNoTelf.Size = new Size(120, 20);
+            InputNoTelf.Size = new Size(118, 20);
             InputNoTelf.TabIndex = 4;
             InputNoTelf.Text = "Nomor Telepon";
             InputNoTelf.Click += InputNoTelf_Click;
@@ -265,17 +265,17 @@
             // Input_Jurusan
             // 
             Input_Jurusan.AutoSize = true;
-            Input_Jurusan.Font = new Font("Malgun Gothic", 9F, FontStyle.Bold, GraphicsUnit.Point);
+            Input_Jurusan.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point);
             Input_Jurusan.Location = new Point(51, 271);
             Input_Jurusan.Name = "Input_Jurusan";
-            Input_Jurusan.Size = new Size(63, 20);
+            Input_Jurusan.Size = new Size(64, 20);
             Input_Jurusan.TabIndex = 3;
             Input_Jurusan.Text = "Jurusan";
             // 
             // InputNIM
             // 
             InputNIM.AutoSize = true;
-            InputNIM.Font = new Font("Malgun Gothic", 9F, FontStyle.Bold, GraphicsUnit.Point);
+            InputNIM.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point);
             InputNIM.Location = new Point(51, 184);
             InputNIM.Name = "InputNIM";
             InputNIM.Size = new Size(40, 20);
@@ -285,7 +285,7 @@
             // InputNama
             // 
             InputNama.AutoSize = true;
-            InputNama.Font = new Font("Malgun Gothic", 9F, FontStyle.Bold, GraphicsUnit.Point);
+            InputNama.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point);
             InputNama.Location = new Point(51, 108);
             InputNama.Name = "InputNama";
             InputNama.Size = new Size(51, 20);
@@ -296,10 +296,10 @@
             // DataDiri
             // 
             DataDiri.AutoSize = true;
-            DataDiri.Font = new Font("Microsoft Sans Serif", 13.8F, FontStyle.Bold, GraphicsUnit.Point);
+            DataDiri.Font = new Font("Segoe UI", 13.8F, FontStyle.Bold, GraphicsUnit.Point);
             DataDiri.Location = new Point(144, 23);
             DataDiri.Name = "DataDiri";
-            DataDiri.Size = new Size(237, 29);
+            DataDiri.Size = new Size(223, 31);
             DataDiri.TabIndex = 0;
             DataDiri.Text = "Data Diri Peminjam";
             // 
@@ -533,6 +533,7 @@
             Margin = new Padding(3, 4, 3, 4);
             Name = "Form1";
             Text = "labe";
+            WindowState = FormWindowState.Maximized;
             Load += Form1_Load;
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ((System.ComponentModel.ISupportInitialize)bindingSource1).EndInit();
