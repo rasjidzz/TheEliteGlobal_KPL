@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Telkom Univ\\Tingkat 2 (Sem 3-4)\\Semester 4\\Konstruksi PL\\TUBES\\FIle code\\TheEliteGlobal_KPL\\EliteGlobal_homepage\\EliteGlobal_homepage.csproj": {}
+    "D:\\Coding\\C#\\TheEliteGlobal_KPL\\EliteGlobal_homepage\\EliteGlobal_homepage.csproj": {}
   },
   "projects": {
-    "D:\\Telkom Univ\\Tingkat 2 (Sem 3-4)\\Semester 4\\Konstruksi PL\\TUBES\\FIle code\\TheEliteGlobal_KPL\\EliteGlobal_homepage\\EliteGlobal_homepage.csproj": {
+    "D:\\Coding\\C#\\TheEliteGlobal_KPL\\EliteGlobal_homepage\\EliteGlobal_homepage.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Telkom Univ\\Tingkat 2 (Sem 3-4)\\Semester 4\\Konstruksi PL\\TUBES\\FIle code\\TheEliteGlobal_KPL\\EliteGlobal_homepage\\EliteGlobal_homepage.csproj",
+        "projectUniqueName": "D:\\Coding\\C#\\TheEliteGlobal_KPL\\EliteGlobal_homepage\\EliteGlobal_homepage.csproj",
         "projectName": "EliteGlobal_homepage",
-        "projectPath": "D:\\Telkom Univ\\Tingkat 2 (Sem 3-4)\\Semester 4\\Konstruksi PL\\TUBES\\FIle code\\TheEliteGlobal_KPL\\EliteGlobal_homepage\\EliteGlobal_homepage.csproj",
-        "packagesPath": "C:\\Users\\zhafr\\.nuget\\packages\\",
-        "outputPath": "D:\\Telkom Univ\\Tingkat 2 (Sem 3-4)\\Semester 4\\Konstruksi PL\\TUBES\\FIle code\\TheEliteGlobal_KPL\\EliteGlobal_homepage\\obj\\",
+        "projectPath": "D:\\Coding\\C#\\TheEliteGlobal_KPL\\EliteGlobal_homepage\\EliteGlobal_homepage.csproj",
+        "packagesPath": "C:\\Users\\epens\\.nuget\\packages\\",
+        "outputPath": "D:\\Coding\\C#\\TheEliteGlobal_KPL\\EliteGlobal_homepage\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\zhafr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\epens\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -39,6 +39,12 @@
       "frameworks": {
         "net7.0-windows7.0": {
           "targetAlias": "net7.0-windows",
+          "dependencies": {
+            "Guna.UI2.WinForms": {
+              "target": "Package",
+              "version": "[2.0.4.4, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

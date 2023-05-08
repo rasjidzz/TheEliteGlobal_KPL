@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "xiD1GOs8cHe0kXPXfye8Dp8+WU43oWuk3uZnHbbx93rCf0pgFgjiNcb+X5wLiCXxp3W3oOvpvSs7de+ALOlpNw==",
+  "dgSpecHash": "gBowfBg/9xgq7mIr4OB+s4vkG36ujH3E7KAIQ6655npLftYxpUU4yBgJvROoCb1KxO5RuK6uUxZuj5ihOrIrfg==",
   "success": true,
-  "projectFilePath": "D:\\Telkom Univ\\Tingkat 2 (Sem 3-4)\\Semester 4\\Konstruksi PL\\TUBES\\FIle code\\TheEliteGlobal_KPL\\EliteGlobal_homepage\\EliteGlobal_homepage.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Coding\\C#\\TheEliteGlobal_KPL\\EliteGlobal_homepage\\EliteGlobal_homepage.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\epens\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.4\\guna.ui2.winforms.2.0.4.4.nupkg.sha512",
+    "C:\\Users\\epens\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\epens\\.nuget\\packages\\system.management\\7.0.0\\system.management.7.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
