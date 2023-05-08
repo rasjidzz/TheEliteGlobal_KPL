@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mrisj\\Documents\\TELKOM\\Telkom University\\Semester 4\\KPL\\TugasBesar\\RentPage\\RentPage.csproj": {}
+    "D:\\TELKOM\\Pembelajaran\\Semester 4\\KPL\\tubes3\\TheEliteGlobal_KPL\\RentPage\\RentPage.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mrisj\\Documents\\TELKOM\\Telkom University\\Semester 4\\KPL\\TugasBesar\\RentPage\\RentPage.csproj": {
+    "D:\\TELKOM\\Pembelajaran\\Semester 4\\KPL\\tubes3\\TheEliteGlobal_KPL\\RentPage\\RentPage.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mrisj\\Documents\\TELKOM\\Telkom University\\Semester 4\\KPL\\TugasBesar\\RentPage\\RentPage.csproj",
+        "projectUniqueName": "D:\\TELKOM\\Pembelajaran\\Semester 4\\KPL\\tubes3\\TheEliteGlobal_KPL\\RentPage\\RentPage.csproj",
         "projectName": "RentPage",
-        "projectPath": "C:\\Users\\mrisj\\Documents\\TELKOM\\Telkom University\\Semester 4\\KPL\\TugasBesar\\RentPage\\RentPage.csproj",
-        "packagesPath": "C:\\Users\\mrisj\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mrisj\\Documents\\TELKOM\\Telkom University\\Semester 4\\KPL\\TugasBesar\\RentPage\\obj\\",
+        "projectPath": "D:\\TELKOM\\Pembelajaran\\Semester 4\\KPL\\tubes3\\TheEliteGlobal_KPL\\RentPage\\RentPage.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "D:\\TELKOM\\Pembelajaran\\Semester 4\\KPL\\tubes3\\TheEliteGlobal_KPL\\RentPage\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\mrisj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,7 +58,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -16,3 +16,21 @@ C:\Users\mrisj\Documents\TELKOM\Telkom University\Semester 4\Praktikum KPL\MODUL
 C:\Users\mrisj\Documents\TELKOM\Telkom University\Semester 4\Praktikum KPL\MODUL 10\Jurnal_MOD10\RentPage\obj\Debug\net6.0-windows\RentPage.genruntimeconfig.cache
 C:\Users\mrisj\Documents\TELKOM\Telkom University\Semester 4\Praktikum KPL\MODUL 10\Jurnal_MOD10\RentPage\obj\Debug\net6.0-windows\ref\RentPage.dll
 C:\Users\mrisj\Documents\TELKOM\Telkom University\Semester 4\Praktikum KPL\MODUL 10\Jurnal_MOD10\RentPage\obj\Debug\net6.0-windows\RentPage.Properties.Resources.resources
+D:\TELKOM\Pembelajaran\Semester 4\KPL\tubes3\TheEliteGlobal_KPL\RentPage\bin\Debug\net6.0-windows\RentPage.exe
+D:\TELKOM\Pembelajaran\Semester 4\KPL\tubes3\TheEliteGlobal_KPL\RentPage\bin\Debug\net6.0-windows\RentPage.deps.json
+D:\TELKOM\Pembelajaran\Semester 4\KPL\tubes3\TheEliteGlobal_KPL\RentPage\bin\Debug\net6.0-windows\RentPage.runtimeconfig.json
+D:\TELKOM\Pembelajaran\Semester 4\KPL\tubes3\TheEliteGlobal_KPL\RentPage\bin\Debug\net6.0-windows\RentPage.dll
+D:\TELKOM\Pembelajaran\Semester 4\KPL\tubes3\TheEliteGlobal_KPL\RentPage\bin\Debug\net6.0-windows\RentPage.pdb
+D:\TELKOM\Pembelajaran\Semester 4\KPL\tubes3\TheEliteGlobal_KPL\RentPage\obj\Debug\net6.0-windows\RentPage.csproj.AssemblyReference.cache
+D:\TELKOM\Pembelajaran\Semester 4\KPL\tubes3\TheEliteGlobal_KPL\RentPage\obj\Debug\net6.0-windows\RentPage.Form1.resources
+D:\TELKOM\Pembelajaran\Semester 4\KPL\tubes3\TheEliteGlobal_KPL\RentPage\obj\Debug\net6.0-windows\RentPage.Properties.Resources.resources
+D:\TELKOM\Pembelajaran\Semester 4\KPL\tubes3\TheEliteGlobal_KPL\RentPage\obj\Debug\net6.0-windows\RentPage.csproj.GenerateResource.cache
+D:\TELKOM\Pembelajaran\Semester 4\KPL\tubes3\TheEliteGlobal_KPL\RentPage\obj\Debug\net6.0-windows\RentPage.GeneratedMSBuildEditorConfig.editorconfig
+D:\TELKOM\Pembelajaran\Semester 4\KPL\tubes3\TheEliteGlobal_KPL\RentPage\obj\Debug\net6.0-windows\RentPage.AssemblyInfoInputs.cache
+D:\TELKOM\Pembelajaran\Semester 4\KPL\tubes3\TheEliteGlobal_KPL\RentPage\obj\Debug\net6.0-windows\RentPage.AssemblyInfo.cs
+D:\TELKOM\Pembelajaran\Semester 4\KPL\tubes3\TheEliteGlobal_KPL\RentPage\obj\Debug\net6.0-windows\RentPage.csproj.CoreCompileInputs.cache
+D:\TELKOM\Pembelajaran\Semester 4\KPL\tubes3\TheEliteGlobal_KPL\RentPage\obj\Debug\net6.0-windows\RentPage.dll
+D:\TELKOM\Pembelajaran\Semester 4\KPL\tubes3\TheEliteGlobal_KPL\RentPage\obj\Debug\net6.0-windows\refint\RentPage.dll
+D:\TELKOM\Pembelajaran\Semester 4\KPL\tubes3\TheEliteGlobal_KPL\RentPage\obj\Debug\net6.0-windows\RentPage.pdb
+D:\TELKOM\Pembelajaran\Semester 4\KPL\tubes3\TheEliteGlobal_KPL\RentPage\obj\Debug\net6.0-windows\RentPage.genruntimeconfig.cache
+D:\TELKOM\Pembelajaran\Semester 4\KPL\tubes3\TheEliteGlobal_KPL\RentPage\obj\Debug\net6.0-windows\ref\RentPage.dll
