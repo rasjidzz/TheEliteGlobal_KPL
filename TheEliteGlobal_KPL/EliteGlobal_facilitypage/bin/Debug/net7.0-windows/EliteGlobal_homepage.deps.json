@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "EliteGlobal_homepage/1.0.0": {
+        "runtime": {
+          "EliteGlobal_homepage.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EliteGlobal_homepage/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

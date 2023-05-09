@@ -1,0 +1,36 @@
+D:\Telkom Univ\Tingkat 2 (Sem 3-4)\Semester 4\Konstruksi PL\TUBES\FIle code\TheEliteGlobal_KPL\EliteGlobal_homepage\bin\Debug\net7.0-windows\EliteGlobal_homepage.exe
+D:\Telkom Univ\Tingkat 2 (Sem 3-4)\Semester 4\Konstruksi PL\TUBES\FIle code\TheEliteGlobal_KPL\EliteGlobal_homepage\bin\Debug\net7.0-windows\EliteGlobal_homepage.deps.json
+D:\Telkom Univ\Tingkat 2 (Sem 3-4)\Semester 4\Konstruksi PL\TUBES\FIle code\TheEliteGlobal_KPL\EliteGlobal_homepage\bin\Debug\net7.0-windows\EliteGlobal_homepage.runtimeconfig.json
+D:\Telkom Univ\Tingkat 2 (Sem 3-4)\Semester 4\Konstruksi PL\TUBES\FIle code\TheEliteGlobal_KPL\EliteGlobal_homepage\bin\Debug\net7.0-windows\EliteGlobal_homepage.dll
+D:\Telkom Univ\Tingkat 2 (Sem 3-4)\Semester 4\Konstruksi PL\TUBES\FIle code\TheEliteGlobal_KPL\EliteGlobal_homepage\bin\Debug\net7.0-windows\EliteGlobal_homepage.pdb
+D:\Telkom Univ\Tingkat 2 (Sem 3-4)\Semester 4\Konstruksi PL\TUBES\FIle code\TheEliteGlobal_KPL\EliteGlobal_homepage\obj\Debug\net7.0-windows\EliteGlobal_homepage.csproj.AssemblyReference.cache
+D:\Telkom Univ\Tingkat 2 (Sem 3-4)\Semester 4\Konstruksi PL\TUBES\FIle code\TheEliteGlobal_KPL\EliteGlobal_homepage\obj\Debug\net7.0-windows\EliteGlobal_homepage.Form1.resources
+D:\Telkom Univ\Tingkat 2 (Sem 3-4)\Semester 4\Konstruksi PL\TUBES\FIle code\TheEliteGlobal_KPL\EliteGlobal_homepage\obj\Debug\net7.0-windows\EliteGlobal_homepage.Properties.Resources.resources
+D:\Telkom Univ\Tingkat 2 (Sem 3-4)\Semester 4\Konstruksi PL\TUBES\FIle code\TheEliteGlobal_KPL\EliteGlobal_homepage\obj\Debug\net7.0-windows\EliteGlobal_homepage.csproj.GenerateResource.cache
+D:\Telkom Univ\Tingkat 2 (Sem 3-4)\Semester 4\Konstruksi PL\TUBES\FIle code\TheEliteGlobal_KPL\EliteGlobal_homepage\obj\Debug\net7.0-windows\EliteGlobal_homepage.GeneratedMSBuildEditorConfig.editorconfig
+D:\Telkom Univ\Tingkat 2 (Sem 3-4)\Semester 4\Konstruksi PL\TUBES\FIle code\TheEliteGlobal_KPL\EliteGlobal_homepage\obj\Debug\net7.0-windows\EliteGlobal_homepage.AssemblyInfoInputs.cache
+D:\Telkom Univ\Tingkat 2 (Sem 3-4)\Semester 4\Konstruksi PL\TUBES\FIle code\TheEliteGlobal_KPL\EliteGlobal_homepage\obj\Debug\net7.0-windows\EliteGlobal_homepage.AssemblyInfo.cs
+D:\Telkom Univ\Tingkat 2 (Sem 3-4)\Semester 4\Konstruksi PL\TUBES\FIle code\TheEliteGlobal_KPL\EliteGlobal_homepage\obj\Debug\net7.0-windows\EliteGlobal_homepage.csproj.CoreCompileInputs.cache
+D:\Telkom Univ\Tingkat 2 (Sem 3-4)\Semester 4\Konstruksi PL\TUBES\FIle code\TheEliteGlobal_KPL\EliteGlobal_homepage\obj\Debug\net7.0-windows\EliteGlobal_homepage.dll
+D:\Telkom Univ\Tingkat 2 (Sem 3-4)\Semester 4\Konstruksi PL\TUBES\FIle code\TheEliteGlobal_KPL\EliteGlobal_homepage\obj\Debug\net7.0-windows\refint\EliteGlobal_homepage.dll
+D:\Telkom Univ\Tingkat 2 (Sem 3-4)\Semester 4\Konstruksi PL\TUBES\FIle code\TheEliteGlobal_KPL\EliteGlobal_homepage\obj\Debug\net7.0-windows\EliteGlobal_homepage.pdb
+D:\Telkom Univ\Tingkat 2 (Sem 3-4)\Semester 4\Konstruksi PL\TUBES\FIle code\TheEliteGlobal_KPL\EliteGlobal_homepage\obj\Debug\net7.0-windows\EliteGlobal_homepage.genruntimeconfig.cache
+D:\Telkom Univ\Tingkat 2 (Sem 3-4)\Semester 4\Konstruksi PL\TUBES\FIle code\TheEliteGlobal_KPL\EliteGlobal_homepage\obj\Debug\net7.0-windows\ref\EliteGlobal_homepage.dll
+C:\PERKULIAHAN\SEMESTER 4\KPL\TUBES\TheEliteGlobal_KPL\EliteGlobal_homepage\bin\Debug\net7.0-windows\EliteGlobal_homepage.exe
+C:\PERKULIAHAN\SEMESTER 4\KPL\TUBES\TheEliteGlobal_KPL\EliteGlobal_homepage\bin\Debug\net7.0-windows\EliteGlobal_homepage.deps.json
+C:\PERKULIAHAN\SEMESTER 4\KPL\TUBES\TheEliteGlobal_KPL\EliteGlobal_homepage\bin\Debug\net7.0-windows\EliteGlobal_homepage.runtimeconfig.json
+C:\PERKULIAHAN\SEMESTER 4\KPL\TUBES\TheEliteGlobal_KPL\EliteGlobal_homepage\bin\Debug\net7.0-windows\EliteGlobal_homepage.dll
+C:\PERKULIAHAN\SEMESTER 4\KPL\TUBES\TheEliteGlobal_KPL\EliteGlobal_homepage\bin\Debug\net7.0-windows\EliteGlobal_homepage.pdb
+C:\PERKULIAHAN\SEMESTER 4\KPL\TUBES\TheEliteGlobal_KPL\EliteGlobal_homepage\obj\Debug\net7.0-windows\EliteGlobal_homepage.csproj.AssemblyReference.cache
+C:\PERKULIAHAN\SEMESTER 4\KPL\TUBES\TheEliteGlobal_KPL\EliteGlobal_homepage\obj\Debug\net7.0-windows\EliteGlobal_homepage.Form1.resources
+C:\PERKULIAHAN\SEMESTER 4\KPL\TUBES\TheEliteGlobal_KPL\EliteGlobal_homepage\obj\Debug\net7.0-windows\EliteGlobal_homepage.Properties.Resources.resources
+C:\PERKULIAHAN\SEMESTER 4\KPL\TUBES\TheEliteGlobal_KPL\EliteGlobal_homepage\obj\Debug\net7.0-windows\EliteGlobal_homepage.csproj.GenerateResource.cache
+C:\PERKULIAHAN\SEMESTER 4\KPL\TUBES\TheEliteGlobal_KPL\EliteGlobal_homepage\obj\Debug\net7.0-windows\EliteGlobal_homepage.GeneratedMSBuildEditorConfig.editorconfig
+C:\PERKULIAHAN\SEMESTER 4\KPL\TUBES\TheEliteGlobal_KPL\EliteGlobal_homepage\obj\Debug\net7.0-windows\EliteGlobal_homepage.AssemblyInfoInputs.cache
+C:\PERKULIAHAN\SEMESTER 4\KPL\TUBES\TheEliteGlobal_KPL\EliteGlobal_homepage\obj\Debug\net7.0-windows\EliteGlobal_homepage.AssemblyInfo.cs
+C:\PERKULIAHAN\SEMESTER 4\KPL\TUBES\TheEliteGlobal_KPL\EliteGlobal_homepage\obj\Debug\net7.0-windows\EliteGlobal_homepage.csproj.CoreCompileInputs.cache
+C:\PERKULIAHAN\SEMESTER 4\KPL\TUBES\TheEliteGlobal_KPL\EliteGlobal_homepage\obj\Debug\net7.0-windows\EliteGlobal_homepage.dll
+C:\PERKULIAHAN\SEMESTER 4\KPL\TUBES\TheEliteGlobal_KPL\EliteGlobal_homepage\obj\Debug\net7.0-windows\refint\EliteGlobal_homepage.dll
+C:\PERKULIAHAN\SEMESTER 4\KPL\TUBES\TheEliteGlobal_KPL\EliteGlobal_homepage\obj\Debug\net7.0-windows\EliteGlobal_homepage.pdb
+C:\PERKULIAHAN\SEMESTER 4\KPL\TUBES\TheEliteGlobal_KPL\EliteGlobal_homepage\obj\Debug\net7.0-windows\EliteGlobal_homepage.genruntimeconfig.cache
+C:\PERKULIAHAN\SEMESTER 4\KPL\TUBES\TheEliteGlobal_KPL\EliteGlobal_homepage\obj\Debug\net7.0-windows\ref\EliteGlobal_homepage.dll
