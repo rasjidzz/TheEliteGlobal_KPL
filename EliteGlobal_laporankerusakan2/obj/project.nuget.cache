@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "bXPa0fEQNxlI6ELIFd6/DIvq76xaepfxtpxzfM565t8qh9EWtWN1PEnW+1RpR8rxhWUEcQnTGw3SCiwq/YMy9A==",
+  "success": true,
+  "projectFilePath": "C:\\PERKULIAHAN\\SEMESTER 4\\KPL\\EliteGlobal_laporankerusakan2\\EliteGlobal_laporankerusakan2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LENOVO\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.4\\guna.ui2.winforms.2.0.4.4.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\system.management\\7.0.0\\system.management.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
